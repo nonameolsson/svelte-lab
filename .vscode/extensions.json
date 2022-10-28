@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "adpyke.vscode-sql-formatter",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "svelte.svelte-vscode",
+    "jpoissonnier.vscode-styled-components",
+    "sysoev.language-stylus",
+    "editorconfig.editorconfig",
+    "ryanluker.vscode-coverage-gutters",
+    "Orta.vscode-jest",
+    "fivethree.vscode-svelte-snippets",
+    "xabikos.javascriptsnippets",
+  ]
+}
